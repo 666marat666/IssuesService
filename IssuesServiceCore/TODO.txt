@@ -1,0 +1,4 @@
+﻿- settings provider with serialization to json
+- ability to search by description
+- search result class
+- what output when a few results?

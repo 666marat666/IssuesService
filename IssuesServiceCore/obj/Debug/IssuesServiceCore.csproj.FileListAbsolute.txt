@@ -1,0 +1,15 @@
+C:\C#\IssuesService\IssuesServiceCore\obj\Debug\IssuesServiceCore.csprojResolveAssemblyReference.cache
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\IssuesServiceCore.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\IssuesServiceCore.pdb
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Newtonsoft.Json.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Newtonsoft.Json.xml
+C:\C#\IssuesService\IssuesServiceCore\obj\Debug\IssuesServiceCore.dll
+C:\C#\IssuesService\IssuesServiceCore\obj\Debug\IssuesServiceCore.pdb
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Core.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Windsor.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Core.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Windsor.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\RestSharp.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\RestSharp.xml
