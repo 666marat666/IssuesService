@@ -6,7 +6,6 @@ namespace IssuesServiceCore.Abstract
         System.Collections.Generic.List<IssuesServiceCore.Abstract.Issue> GetAllIssues();
         IssuesServiceCore.Abstract.Issue GetIssueById(string id);
         IssuesServiceCore.Abstract.Issue GetIssueByName(string name);
-
     }
 }
 

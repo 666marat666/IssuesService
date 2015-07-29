@@ -1,4 +1,3 @@
-C:\C#\IssuesService\IssuesServiceCore\obj\Debug\IssuesServiceCore.csprojResolveAssemblyReference.cache
 C:\C#\IssuesService\IssuesServiceCore\bin\Debug\IssuesServiceCore.dll
 C:\C#\IssuesService\IssuesServiceCore\bin\Debug\IssuesServiceCore.pdb
 C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Newtonsoft.Json.dll
@@ -13,3 +12,6 @@ C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Facilities.WcfIntegration
 C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Castle.Windsor.xml
 C:\C#\IssuesService\IssuesServiceCore\bin\Debug\RestSharp.dll
 C:\C#\IssuesService\IssuesServiceCore\bin\Debug\RestSharp.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Ionic.Zip.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Debug\Ionic.Zip.xml
+C:\C#\IssuesService\IssuesServiceCore\obj\Debug\IssuesServiceCore.csprojResolveAssemblyReference.cache

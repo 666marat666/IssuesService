@@ -8,29 +8,30 @@ using System.IO;
 using Newtonsoft.Json;
 using IssuesServiceCore.Abstract.Search;
 using IssuesServiceCore.Base.Service;
+using Newtonsoft.Json.Linq;
 
 namespace IssuesServiceCore.Base
 {
     public class IssuesFilesRepository : IssuesServiceCore.Abstract.IIssuesRepository
     {
         public string PathToRepo { get; set; }
-        List<Issue> issuesCache = null;
+        protected List<Issue> issuesCache = null;
 
         public IssuesFilesRepository(string pathToRepo = "repo")//TODO
         {
             this.PathToRepo = pathToRepo;
-            Init();
+            ParseIssues();
         }
 
-        void Init()
+        protected virtual void ParseIssues()
         {
             List<Issue> result = new List<Issue>();
 
             foreach (var item in Directory.GetFiles(PathToRepo, "*.json", SearchOption.AllDirectories))
             {
                 string content = File.ReadAllText(item);
-
-                var issue = JsonConvert.DeserializeObject<Issue>(content);
+                IssueFormatAdapter adapter = JsonConvert.DeserializeObject<IssueFormatAdapter>(content);
+                Issue issue = adapter.issue;
                 if (issue != null)
                     result.Add(issue);
             }

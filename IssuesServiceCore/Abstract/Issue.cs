@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,11 +9,15 @@ namespace IssuesServiceCore.Abstract
 {
     public class Issue
     {
+        [JsonProperty("id")]
         public string ID { get; set; }
+        [JsonProperty("name")]
         public string Name { get; set; }
+        [JsonProperty("description")]
         public string Description { get; set; }
 
-        public Issue() { }
+        public Issue()
+        {}
 
         public Issue(string id = "0", string description = "", string name = "_empty_")
         {

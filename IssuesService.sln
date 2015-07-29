@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IssuesService", "IssuesServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IssuesServiceCore", "IssuesServiceCore\IssuesServiceCore.csproj", "{87A80818-5A39-43F2-9952-51B2399E5C3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IssuesServiceTools", "IssuesServiceTools\IssuesServiceTools.csproj", "{83CA6918-2B90-43B7-AB33-C6EF072E199E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{87A80818-5A39-43F2-9952-51B2399E5C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A80818-5A39-43F2-9952-51B2399E5C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A80818-5A39-43F2-9952-51B2399E5C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CA6918-2B90-43B7-AB33-C6EF072E199E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CA6918-2B90-43B7-AB33-C6EF072E199E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CA6918-2B90-43B7-AB33-C6EF072E199E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CA6918-2B90-43B7-AB33-C6EF072E199E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

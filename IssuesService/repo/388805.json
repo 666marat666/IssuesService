@@ -1,0 +1,164 @@
+{
+	"data" : {
+		"id" : 388805,
+		"item_type" : "defects",
+		"assigned_to" : {
+			"id" : 550
+		},
+		"parent" : {
+			"id" : 0
+		},
+		"priority" : {
+			"id" : 0
+		},
+		"project" : {
+			"id" : 6333
+		},
+		"release" : {
+			"id" : 0
+		},
+		"reported_by" : {
+			"id" : 0
+		},
+		"reported_by_customer_contact" : {
+			"id" : 7670
+		},
+		"severity" : {
+			"id" : 8
+		},
+		"status" : {
+			"id" : 6
+		},
+		"workflow_step" : {
+			"id" : 332
+		},
+		"actual_duration" : {
+			"duration" : 0.2,
+			"time_unit" : {
+				"id" : 2
+			}
+		},
+		"estimated_duration" : {
+			"duration" : 0.0,
+			"time_unit" : {
+				"id" : 0
+			}
+		},
+		"remaining_duration" : {
+			"duration" : 0.0,
+			"time_unit" : {
+				"id" : 0
+			}
+		},
+		"percent_complete" : 100,
+		"archived" : false,
+		"publicly_viewable" : true,
+		"completion_date" : "1899-01-01T00:00:00Z",
+		"due_date" : "1899-01-01T00:00:00Z",
+		"reported_date" : "1899-01-01T00:00:00Z",
+		"description" : "<div>I have a templates called BaseFooter that has a number of fields. All templates that represent a page inherits from this template so footer information can be&nbsp;overwritten on a specific page.<br />\nThis is not something normal editors should have access to only administrators. I have therefor set Field Read and Field Write permissions to denied on the template fields.<br />\n<br />\nThis however does not work and the normal editors can both see and edit the fields.<br />\nIf I choose to set the same denied access on a field defined directly on the template it will be hidden from the editor.<br />\n<br />\nHow do I get this to work on fields that is <span class=\"short_text\" id=\"result_box\" lang=\"en\"><span class=\"hps\">derived</span> <span class=\"hps\">from an other template?</span></span>\n<hr />\n</div>\n<br />\n<div><b>Edited by Ivan Sheyenko on Friday, June 07, 2013 at 1:58 PM</b></div>\n<div>Hello,<br />\n<br />\nI am sorry to hear that you are experiencing this issue.<br />\nCould you please provide me with a screen-shots of security setting from security editor and access viewer for the user/role in question?<br />\n<br />\nBest regards<br />\nIvan</div>\n",
+		"name" : "Denied Field write and read acces is not inherited from base template",
+		"notes" : "",
+		"number" : "388805",
+		"resolution" : "",
+		"replication_procedures" : "",
+		"build_number" : "",
+		"build_number_of_fix" : "",
+		"custom_fields" : {
+			"custom_1" : "Windows Server 2008",
+			"custom_2" : "Production",
+			"custom_78" : "FOA",
+			"custom_79" : "Sitecore CMS 6.2",
+			"custom_120" : "",
+			"custom_330" : "",
+			"custom_333" : "Internet Explorer 9",
+			"custom_336" : false,
+			"custom_347" : "6.2.0 rev. 101105",
+			"custom_348" : "[No Related Module]",
+			"custom_369" : "N/A",
+			"custom_355" : false,
+			"custom_359" : "",
+			"custom_360" : "",
+			"custom_362" : "",
+			"custom_364" : "",
+			"custom_365" : "",
+			"custom_366" : "",
+			"custom_367" : "",
+			"custom_368" : "",
+			"custom_370" : "",
+			"custom_371" : "",
+			"custom_373" : "DK",
+			"custom_374" : "",
+			"custom_415" : "",
+			"custom_420" : 0.0,
+			"custom_422" : "1899-01-01T00:00:00Z",
+			"custom_432" : "",
+			"custom_461" : 0.0,
+			"custom_462" : "",
+			"custom_463" : "Level 0",
+			"custom_472" : "",
+			"custom_474" : "",
+			"custom_482" : false,
+			"custom_484" : "",
+			"custom_485" : 0.0,
+			"custom_489" : "1899-01-01T00:00:00Z",
+			"custom_490" : "2013-06-07T14:00:23Z",
+			"custom_491" : "2013-06-28T14:04:03Z",
+			"custom_497" : 0.0,
+			"custom_501" : "",
+			"custom_502" : "",
+			"custom_503" : "",
+			"custom_504" : "N/A",
+			"custom_513" : "L1",
+			"custom_505" : 2.0,
+			"custom_506" : 2.0,
+			"custom_508" : "2013-06-07T12:33:51Z",
+			"custom_509" : "EMEA",
+			"custom_510" : "",
+			"custom_511" : "2",
+			"custom_516" : null,
+			"custom_518" : "",
+			"custom_520" : "",
+			"custom_521" : "",
+			"custom_523" : "",
+			"custom_527" : 0.0,
+			"custom_528" : 0.0,
+			"custom_529" : ["Sitecore CMS"],
+			"custom_534" : "Abandoned",
+			"custom_535" : null,
+			"custom_536" : null,
+			"custom_537" : "<a href=\"https://support.sitecore.net/helpdesk/viewitem.aspx?id=388805&type=defects\">https://support.sitecore.net/helpdesk/viewitem.aspx?id=388805&type=defects</a>",
+			"custom_539" : null,
+			"custom_540" : "Europe Platform",
+			"custom_542" : false,
+			"custom_543" : null,
+			"custom_544" : null,
+			"custom_545" : null,
+			"custom_546" : null,
+			"custom_548" : null,
+			"custom_550" : "",
+			"custom_551" : null,
+			"custom_552" : null,
+			"custom_553" : null,
+			"custom_555" : null,
+			"custom_556" : null,
+			"custom_557" : null,
+			"custom_558" : null,
+			"custom_561" : null,
+			"custom_562" : null,
+			"custom_563" : null,
+			"custom_564" : null,
+			"custom_565" : null,
+			"custom_566" : 247.0,
+			"custom_567" : "DIS/PLAY A/S",
+			"custom_568" : "FE614126-BF6B-DA11-A8C0-001143CD6273",
+			"custom_569" : "<iframe style=\"width:100%; height: 95%; border: none;\" src=\"https://tfssupport.dk.sitecore.net/OT-TFS/?ID=388805\"></iframe",
+			"custom_570" : null,
+			"custom_571" : null,
+			"custom_572" : null
+		}
+	},
+	"metadata" : {
+		"edit_permission" : true
+	}
+}

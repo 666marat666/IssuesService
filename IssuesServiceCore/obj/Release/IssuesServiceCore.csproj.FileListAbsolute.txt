@@ -1,0 +1,17 @@
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\IssuesServiceCore.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\IssuesServiceCore.pdb
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Castle.Core.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Castle.Facilities.WcfIntegration.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Castle.Windsor.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Ionic.Zip.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Newtonsoft.Json.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\RestSharp.dll
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Castle.Core.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Castle.Facilities.WcfIntegration.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Castle.Windsor.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Ionic.Zip.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\Newtonsoft.Json.xml
+C:\C#\IssuesService\IssuesServiceCore\bin\Release\RestSharp.xml
+C:\C#\IssuesService\IssuesServiceCore\obj\Release\IssuesServiceCore.csprojResolveAssemblyReference.cache
+C:\C#\IssuesService\IssuesServiceCore\obj\Release\IssuesServiceCore.dll
+C:\C#\IssuesService\IssuesServiceCore\obj\Release\IssuesServiceCore.pdb
